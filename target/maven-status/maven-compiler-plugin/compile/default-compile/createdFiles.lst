@@ -14,7 +14,6 @@ com\portfolioAP\portfolioAP\models\Sobremi.class
 com\portfolioAP\portfolioAP\models\Skill.class
 com\portfolioAP\portfolioAP\controller\SobremiController.class
 com\portfolioAP\portfolioAP\models\Experiencia.class
-com\portfolioAP\portfolioAP\WebConfig.class
 com\portfolioAP\portfolioAP\services\UsuarioService.class
 com\portfolioAP\portfolioAP\Interface\Dto\dtoSobremi.class
 com\portfolioAP\portfolioAP\controller\SkillController.class
