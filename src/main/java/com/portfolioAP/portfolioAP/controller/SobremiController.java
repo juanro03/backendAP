@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/sobremi")
-@CrossOrigin(origins = "https://portfolioap-auth.web.app")
+@CrossOrigin(origins = "http://localhost:4200")
 public class SobremiController {
     @Autowired SobremiService sobremiService;
     
