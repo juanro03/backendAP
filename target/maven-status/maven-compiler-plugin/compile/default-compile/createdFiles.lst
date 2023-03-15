@@ -20,6 +20,8 @@ com\portfolioAP\portfolioAP\controller\SkillController.class
 com\portfolioAP\portfolioAP\models\Usuario.class
 com\portfolioAP\portfolioAP\repository\SobremiRepo.class
 com\portfolioAP\portfolioAP\services\ExperienciaService.class
+com\portfolioAP\portfolioAP\CORSConfig.class
+com\portfolioAP\portfolioAP\CORSConfig$1.class
 com\portfolioAP\portfolioAP\Interface\Dto\dtoUsuario.class
 com\portfolioAP\portfolioAP\Interface\Dto\dtoExperiencia.class
 com\portfolioAP\portfolioAP\controller\ExperienciaController.class
